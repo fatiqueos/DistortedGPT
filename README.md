@@ -1,3 +1,3 @@
 # DistortedGPT
  
-DistortedGPT.txt yazıları ChatGPT'ye atarak sınırları aşabilirsiniz..
+DistortedGPT.txt yazıları ChatGPT'ye atarak sınırları aşabilirsiniz.. (artık çalışmıyor)
